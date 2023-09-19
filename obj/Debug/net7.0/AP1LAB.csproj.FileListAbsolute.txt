@@ -1,0 +1,15 @@
+C:\Users\brend\AP1LAB\bin\Debug\net7.0\AP1LAB.exe
+C:\Users\brend\AP1LAB\bin\Debug\net7.0\AP1LAB.deps.json
+C:\Users\brend\AP1LAB\bin\Debug\net7.0\AP1LAB.runtimeconfig.json
+C:\Users\brend\AP1LAB\bin\Debug\net7.0\AP1LAB.dll
+C:\Users\brend\AP1LAB\bin\Debug\net7.0\AP1LAB.pdb
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\AP1LAB.csproj.AssemblyReference.cache
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\AP1LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\AP1LAB.AssemblyInfoInputs.cache
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\AP1LAB.AssemblyInfo.cs
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\AP1LAB.csproj.CoreCompileInputs.cache
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\AP1LAB.dll
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\refint\AP1LAB.dll
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\AP1LAB.pdb
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\AP1LAB.genruntimeconfig.cache
+C:\Users\brend\AP1LAB\obj\Debug\net7.0\ref\AP1LAB.dll
